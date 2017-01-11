@@ -1,0 +1,144 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\ApplicationInsights.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Swashbuckle.Core.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Http.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\WebActivatorEx.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Http.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversityy.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\USER\Documents\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\ApplicationInsights.config
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\csc.exe
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\vbc.exe
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Web.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.ApplicationInsights.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.Azure.AppService.ApiApps.Service.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Swashbuckle.Core.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Net.Http.Formatting.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Http.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Http.WebHost.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\WebActivatorEx.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\WebGrease.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.Web.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.ApplicationInsights.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Net.Http.Formatting.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Http.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Http.WebHost.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversityy.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\USER\Desktop\Richardrealiyama Software Solutions\Visual Studio 2015\Projects\ContosoUniversity\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
