@@ -22,7 +22,8 @@ namespace ContosoUniversity.DAL
                 throwTransientErrors = true; command.Parameters[0].Value = "an";
                 command.Parameters[1].Value = "an";
             }
-            if (throwTransientErrors && _counter < 4)
+           
+           if (throwTransientErrors && _counter < 4)
             {
                 _logger.Information("Returning transient error for command: {0}", command.CommandText);
                 _counter++; interceptionContext.Exception = CreateDummySqlException();
