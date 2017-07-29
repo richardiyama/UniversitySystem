@@ -4,9 +4,11 @@ namespace ContosoUniversity.DAL
 {
     public class SchoolConfiguration : DbConfiguration
     {
+        
         public SchoolConfiguration()
         {
             SetExecutionStrategy("System.Data.SqlClient", () => new SqlAzureExecutionStrategy());
-        }
+       
+       }
     }
 }
