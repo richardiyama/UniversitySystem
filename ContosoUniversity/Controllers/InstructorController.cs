@@ -32,7 +32,8 @@ namespace ContosoUniversity.Controllers
             }
             if (courseID != null)
             {
-                ViewBag.CourseID = courseID.Value;
+               
+               ViewBag.CourseID = courseID.Value;
                 // Lazy loading         
                 //viewModel.Enrollments = viewModel.Courses.Where(         
                 //    x => x.CourseID == courseID).Single().Enrollments;         
