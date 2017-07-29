@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Data.Entity;
 using ContosoUniversity.Models;
 
+
 using System.Data.Entity.ModelConfiguration.Conventions;
 namespace ContosoUniversity.DAL
 {
