@@ -6,6 +6,7 @@ using System.Data.Entity;
 using ContosoUniversity.Models;
 using System.Data.Entity.Migrations;
 
+
 namespace ContosoUniversity.DAL
 {
     public class SchoolInitializer : System.Data.Entity.DropCreateDatabaseIfModelChanges<SchoolContext>
