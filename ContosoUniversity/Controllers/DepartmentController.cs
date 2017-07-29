@@ -23,7 +23,8 @@ namespace ContosoUniversity.Controllers
             return View(await departments.ToListAsync());
         }
 
-        // GET: Department/Details/5
+       
+       // GET: Department/Details/5
         public async Task<ActionResult> Details(int? id)
         {
             if (id == null)
