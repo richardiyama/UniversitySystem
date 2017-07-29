@@ -2,6 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 namespace ContosoUniversity.ViewModels
 {
+    
     public class EnrollmentDateGroup
     {
         [DataType(DataType.Date)]
